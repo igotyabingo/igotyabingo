@@ -1,5 +1,5 @@
 ## Tech Stack
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=C">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /></div>
 <!--
 **Suyeon-WOO1/Suyeon-WOO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
